@@ -13,7 +13,8 @@
 7)Вывод - S  
 8)Конец  
 
-**Блок схема**
+**Блок схема**  
+https://github.com/vladx111/-/commit/694b61539bcafc15b7473ae5caa1effa229d561d
 
 
 
