@@ -1,3 +1,4 @@
+
 **Условие задачи**  
 Самолет летит по прямой на высоте Н метров со скоростью Vc м/с. В момент его
 прохождения над зенит-ной пусковой установкой по нему выпускается ракета со
@@ -15,6 +16,11 @@
 
 **Блок схема**  
 https://github.com/vladx111/-/commit/694b61539bcafc15b7473ae5caa1effa229d561d
+<img width="822" height="818" alt="2026-09-22_18-58-17" src="https://github.com/user-attachments/assets/16b958dd-5047-4482-b243-2ff98ae1d3d5" />    
+**Программа**
+<img width="858" height="562" alt="2026-09-22_19-58-52" src="https://github.com/user-attachments/assets/141fe2b5-ffdd-4a67-888a-f65a897b873c" />  
+**Результат работы программы**
+
 
 
 
